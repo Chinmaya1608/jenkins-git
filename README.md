@@ -1,1 +1,1 @@
-# jenkins-git sample readme
+# jenkins-git readme
