@@ -1,7 +1,7 @@
 pipeline {
     agent any
     stages {
-        stage('Deploy') {
+        stage('Build') {
             steps {
                bat 'echo "Hello World"'
                bat 'echo "Hello World Again"'
